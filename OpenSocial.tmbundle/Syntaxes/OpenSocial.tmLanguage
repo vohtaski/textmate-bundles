@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>os</string>
+	</array>
+	<key>keyEquivalent</key>
+	<string>^~O</string>
+	<key>name</key>
+	<string>OpenSocial</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>begin</key>
+			<string>&lt;!\[CDATA\[</string>
+			<key>beginCaptures</key>
+			<dict>
+				<key>0</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.separation.cdata.begin.opensocial</string>
+				</dict>
+			</dict>
+			<key>end</key>
+			<string>\]\]&gt;</string>
+			<key>endCaptures</key>
+			<dict>
+				<key>0</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.cdata.end.opensocial</string>
+				</dict>
+			</dict>
+			<key>name</key>
+			<string>xxx.language.opensocial</string>
+			<key>patterns</key>
+			<array>
+				<dict>
+					<key>include</key>
+					<string>text.html.basic</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>include</key>
+			<string>text.xml</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>text.opensocial</string>
+	<key>uuid</key>
+	<string>B2CA8BD1-B307-4474-BEA1-0D6E81EAB831</string>
+</dict>
+</plist>
