@@ -1,20 +1,20 @@
 List of bundles
-=======
+===============
 
 JSDoc bundle
 --------------
 simple bundle to help writing JSDoc comment for functions and classes
 
-Ruby JSDoc
+Ruby JSDoc bundle
 ----------
 a bundle to help writing comments for methods and classes in ruby (similar to JSDoc format)
 
 
 Installation of a bundle
-============
+========================
 Via download:
 
- * Open this [link][bundle_zip]  
+ * Open this [bundles_zip](https://github.com/vohtaski/textmate-bundles/archives/master)  
  * Unzip the download
  * Double-click on bundle that interests you
  * TextMate handles the rest!  
