@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Name: ${1:Evgeny}
+Family Name: ${2:Bogdanov}
+Birth: ${3:08}/${4:12}/${5:19${6:83}}
+
+$0
+
+</string>
+	<key>name</key>
+	<string>My card</string>
+	<key>tabTrigger</key>
+	<string>me</string>
+	<key>uuid</key>
+	<string>7A677E75-ECF6-4C4C-A6E3-BF9C74719F91</string>
+</dict>
+</plist>
