@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>D39E3998-E341-424D-8C29-410FB224F16F</string>
+			<string>0157096A-2A7E-49B2-9AA9-4A9AA33A710E</string>
+			<string>------------------------------------</string>
+			<string>F5FA9ACE-276B-4DBA-A99B-215096FFFDD1</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>F5FA9ACE-276B-4DBA-A99B-215096FFFDD1</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>4BFC0DFE-3527-48C1-AA60-8C905C7BE180</string>
+					<string>AB80856D-55B1-489F-A8A5-FC9252960FB8</string>
+					<string>386F1B0E-B7F0-4713-AD4D-E906CE4C790D</string>
+					<string>773EDC61-5C97-4BE4-BC71-FD1313EC7A65</string>
+					<string>0AEF40AF-96DF-40EF-8C10-51F3B2FFE286</string>
+					<string>F879C849-E8BA-4FD0-8EA1-5B5A00359C31</string>
+					<string>8A41A926-6F9B-4912-B8E8-23999588ABCB</string>
+					<string>F250BD05-B8BC-4E96-90F8-BF72D2990402</string>
+				</array>
+				<key>name</key>
+				<string>Tags</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>Ruby JSDoc</string>
+	<key>ordering</key>
+	<array>
+		<string>AB80856D-55B1-489F-A8A5-FC9252960FB8</string>
+		<string>4BFC0DFE-3527-48C1-AA60-8C905C7BE180</string>
+		<string>386F1B0E-B7F0-4713-AD4D-E906CE4C790D</string>
+		<string>773EDC61-5C97-4BE4-BC71-FD1313EC7A65</string>
+		<string>0AEF40AF-96DF-40EF-8C10-51F3B2FFE286</string>
+		<string>F879C849-E8BA-4FD0-8EA1-5B5A00359C31</string>
+		<string>8A41A926-6F9B-4912-B8E8-23999588ABCB</string>
+		<string>F250BD05-B8BC-4E96-90F8-BF72D2990402</string>
+		<string>0157096A-2A7E-49B2-9AA9-4A9AA33A710E</string>
+		<string>D39E3998-E341-424D-8C29-410FB224F16F</string>
+	</array>
+	<key>uuid</key>
+	<string>A0746ABC-BF92-4D3C-B064-13B91669034B</string>
+</dict>
+</plist>

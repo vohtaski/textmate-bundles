@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>###
+ # ${1:Describe what this method does}
+${2: # @param {${3:String|Object|Array|Boolean|Number}\} ${4:param_name} ${5:Describe this parameter}${6}} 
+ # @returns {${7:String|Object|Array|Boolean|Number}} ${8:Describe what it returns}
+ ## $0</string>
+	<key>name</key>
+	<string>Method</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>##</string>
+	<key>uuid</key>
+	<string>D39E3998-E341-424D-8C29-410FB224F16F</string>
+</dict>
+</plist>

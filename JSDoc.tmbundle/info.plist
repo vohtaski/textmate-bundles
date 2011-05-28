@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>D397BF85-E8EB-40F9-B90F-42EF952F9410</string>
+			<string>6EFB12E7-5786-44D7-93A7-5129EF7B54DF</string>
+			<string>FDE750E9-0C22-4C4D-A8E1-877AF918873A</string>
+			<string>------------------------------------</string>
+			<string>497678F1-2E45-4603-BF0E-480AB44D0132</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>497678F1-2E45-4603-BF0E-480AB44D0132</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>706E90D0-AA3E-4704-B402-FE536136151E</string>
+					<string>F6BBDEBA-1D04-4E0D-9358-2310577D2601</string>
+					<string>236CAEAB-E758-4429-9647-10C35E0C989A</string>
+					<string>DB0FF145-37EE-46E7-AED4-4588026D5DE4</string>
+					<string>640CCC71-CC72-4FF3-A2BC-2D43F662C952</string>
+					<string>FB3AA241-9F13-4BBA-B393-62084FF42BDF</string>
+					<string>E2ED141F-8C46-450B-AB29-E22592D36613</string>
+					<string>D3777C58-0DE1-447D-B190-E5BD5ACAACC3</string>
+				</array>
+				<key>name</key>
+				<string>Tags</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>JSDoc</string>
+	<key>ordering</key>
+	<array>
+		<string>F6BBDEBA-1D04-4E0D-9358-2310577D2601</string>
+		<string>706E90D0-AA3E-4704-B402-FE536136151E</string>
+		<string>236CAEAB-E758-4429-9647-10C35E0C989A</string>
+		<string>DB0FF145-37EE-46E7-AED4-4588026D5DE4</string>
+		<string>640CCC71-CC72-4FF3-A2BC-2D43F662C952</string>
+		<string>FB3AA241-9F13-4BBA-B393-62084FF42BDF</string>
+		<string>E2ED141F-8C46-450B-AB29-E22592D36613</string>
+		<string>D3777C58-0DE1-447D-B190-E5BD5ACAACC3</string>
+		<string>6EFB12E7-5786-44D7-93A7-5129EF7B54DF</string>
+		<string>FDE750E9-0C22-4C4D-A8E1-877AF918873A</string>
+		<string>D397BF85-E8EB-40F9-B90F-42EF952F9410</string>
+	</array>
+	<key>uuid</key>
+	<string>B4F99621-A72F-4F1C-8BCE-2DCB1CBDA6E8</string>
+</dict>
+</plist>
