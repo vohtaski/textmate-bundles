@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+  <ModulePrefs title="OS viewer with Template" 
+                author_email="author@example.com" 
+                author="Author Name" 
+                description="Gadget that displays viewer with Templates"
+                width="500"
+                height="500">
+    <Require feature="opensocial" version="1.1.0"/>
+    <Require feature="opensocial-templates"/>
+  </ModulePrefs>
+  <Content type="html">
+    <![CDATA[
+      <script type="text/os-template">
+        <div style="font-size: 20px">Hello ${Viewer.name.formatted}!</div>
+      </script>
+    ]]>
+  </Content>
+</Module>

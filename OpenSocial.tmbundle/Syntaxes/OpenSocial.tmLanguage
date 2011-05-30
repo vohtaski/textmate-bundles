@@ -4,7 +4,8 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>os</string>
+		<string>os.xml</string>
+		<string>xml</string>
 	</array>
 	<key>keyEquivalent</key>
 	<string>^~O</string>
@@ -34,7 +35,7 @@
 				</dict>
 			</dict>
 			<key>name</key>
-			<string>xxx.language.opensocial</string>
+			<string>code.cdata.opensocial</string>
 			<key>patterns</key>
 			<array>
 				<dict>
@@ -49,7 +50,7 @@
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>text.opensocial</string>
+	<string>text.xml.opensocial</string>
 	<key>uuid</key>
 	<string>B2CA8BD1-B307-4474-BEA1-0D6E81EAB831</string>
 </dict>

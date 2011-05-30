@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+  <ModulePrefs title="OS viewer with JavaScript" 
+                author_email="author@example.com" 
+                author="Author Name" 
+                description="Gadget that get viewer with JavaScript and displays it"
+                width="500"
+                height="500">
+    <Require feature="osapi"/>
+  </ModulePrefs>
+  <Content type="html">
+    <![CDATA[
+      <div id="viewer"></div>
+      
+      <script type="text/javascript">
+        var initialize = function() {
+          osapi.people.getViewer().execute(function(viewer){
+            document.getElementById('viewer').innerHTML = "Hello "+viewer.id+"!";
+          });
+        };
+      </script>
+
+      <script type="text/javascript">
+        gadgets.util.registerOnLoadHandler(initialize);
+      </script>
+      
+    ]]>
+  </Content>
+</Module>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>osapi.recommender.get({contextId: ${1:context}.contextId, contextType: $1.contextType}).execute(function(${2:response}){
+  $3
+});$0</string>
+	<key>name</key>
+	<string>osapi.recommender.get</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>os</string>
+	<key>uuid</key>
+	<string>403444F0-EE8B-43D7-8405-55B0E8B75A4D</string>
+</dict>
+</plist>

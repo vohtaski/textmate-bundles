@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+  <ModulePrefs title="Hello world" 
+                author_email="author@example.com" 
+                author="Author Name" 
+                description="Hello world gadget"
+                width="500"
+                height="500">
+  </ModulePrefs>
+  <Content type="html">
+    <![CDATA[
+      <div>Hello world!</div>
+    ]]>
+  </Content>
+</Module>

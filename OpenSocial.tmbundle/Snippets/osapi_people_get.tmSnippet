@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>osapi.people.get({userId: ${1:context}.contextId, personId: $1.contextType, groupId: "@self"}).execute(function(${2:response}){
+  $3
+});$0</string>
+	<key>name</key>
+	<string>osapi.people.get</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>os</string>
+	<key>uuid</key>
+	<string>750454AB-4D6E-4A28-8AE8-EBC9E02D05DD</string>
+</dict>
+</plist>

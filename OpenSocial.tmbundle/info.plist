@@ -2,8 +2,60 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>DF9AABF5-06FA-4FFD-8797-65BE36AB6BBA</string>
+			<string>F6DC9D43-1F3F-435B-AB61-721FD8F54ADB</string>
+			<string>CA95A00D-BE53-4B60-83C9-0FCA053AEEB0</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>DF9AABF5-06FA-4FFD-8797-65BE36AB6BBA</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>7FD4C3CA-8E3C-444C-922A-22587FD729B1</string>
+					<string>9EBA9C70-3BB7-4B5A-A6C2-B7E99D2E8502</string>
+					<string>E3396B42-724A-458C-B8B5-A635B655148F</string>
+					<string>750454AB-4D6E-4A28-8AE8-EBC9E02D05DD</string>
+					<string>C765ACDA-6CD3-4E16-96BB-554C3036DE66</string>
+					<string>6EC4B256-6F34-45C9-AEB6-910A014F5E0F</string>
+					<string>403444F0-EE8B-43D7-8405-55B0E8B75A4D</string>
+				</array>
+				<key>name</key>
+				<string>osapi</string>
+			</dict>
+			<key>F6DC9D43-1F3F-435B-AB61-721FD8F54ADB</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>76E2D78C-E96B-4D35-96EF-850975FEC313</string>
+					<string>45EAB910-C059-43C9-B730-66E1177C42EF</string>
+				</array>
+				<key>name</key>
+				<string>gadgets</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>name</key>
 	<string>OpenSocial</string>
+	<key>ordering</key>
+	<array>
+		<string>B2CA8BD1-B307-4474-BEA1-0D6E81EAB831</string>
+		<string>7FD4C3CA-8E3C-444C-922A-22587FD729B1</string>
+		<string>E3396B42-724A-458C-B8B5-A635B655148F</string>
+		<string>750454AB-4D6E-4A28-8AE8-EBC9E02D05DD</string>
+		<string>6EC4B256-6F34-45C9-AEB6-910A014F5E0F</string>
+		<string>C765ACDA-6CD3-4E16-96BB-554C3036DE66</string>
+		<string>403444F0-EE8B-43D7-8405-55B0E8B75A4D</string>
+		<string>9EBA9C70-3BB7-4B5A-A6C2-B7E99D2E8502</string>
+		<string>CA95A00D-BE53-4B60-83C9-0FCA053AEEB0</string>
+		<string>76E2D78C-E96B-4D35-96EF-850975FEC313</string>
+		<string>45EAB910-C059-43C9-B730-66E1177C42EF</string>
+		<string>62E23AFE-CB90-49EF-81DB-16834A213BC5</string>
+	</array>
 	<key>uuid</key>
 	<string>1DC9FB59-8BBA-4BA9-B098-C0B4D63AFEBE</string>
 </dict>
