@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>OpenSocial Completions</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>settings</key>
+	<dict>
+		<key>completions</key>
+		<array>
+			<string>displayName</string>
+			<string>profileUrl</string>
+			<string>thumbnailUrl</string>
+			<string>context</string>
+			<string>contextId</string>
+			<string>contextType</string>
+			<string>parentId</string>
+			<string>parentType</string>
+			<string>description</string>
+			<string>aboutMe</string>
+		</array>
+	</dict>
+	<key>uuid</key>
+	<string>CB94A293-044A-4D51-9B34-1F5201800C1E</string>
+</dict>
+</plist>

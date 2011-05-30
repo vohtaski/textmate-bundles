@@ -9,6 +9,16 @@ Ruby JSDoc bundle
 ----------
 a bundle to help writing comments for methods and classes in ruby (similar to JSDoc format)
 
+OpenSocial bundle
+----------
+a bundle to help writing Opensocial gadgets.
+It also provides the highlighting syntax for gadget source files (.xml).
+Few basic templates for opensocial gadgets are provided.
+
+Vohtaski
+--------
+My bundle for some specific stuff I do often.
+
 
 Installation of a bundle
 ========================
