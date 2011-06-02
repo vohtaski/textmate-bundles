@@ -15,10 +15,14 @@ a bundle to help writing Opensocial gadgets.
 It also provides the highlighting syntax for gadget source files (.xml).
 Few basic templates for opensocial gadgets are provided.
 
+
+OpenApp bundle
+--------------
+few snippets to make it easy working with OpenApp library
+
 Vohtaski
 --------
 My bundle for some specific stuff I do often.
-
 
 Installation of a bundle
 ========================
