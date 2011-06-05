@@ -4,6 +4,14 @@
 <dict>
 	<key>name</key>
 	<string>Vohtaski</string>
+	<key>ordering</key>
+	<array>
+		<string>84967EDE-CB93-4C24-A31E-18F37EF8091D</string>
+		<string>7A677E75-ECF6-4C4C-A6E3-BF9C74719F91</string>
+		<string>5489E1FC-EBE5-402D-BB60-5D28013079D6</string>
+		<string>A2A302BE-9CA5-4FAC-9E8E-DEB979D0853F</string>
+		<string>3CBE71CD-502E-4760-ADFB-A64DAAAF42B6</string>
+	</array>
 	<key>uuid</key>
 	<string>CD11CDDE-B15B-468B-A1B5-91C1A3F3950F</string>
 </dict>
