@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script type="text/javascript" src="http://open-app.googlecode.com/files/openapp.js"&gt;&lt;/script&gt;</string>
+	<key>name</key>
+	<string>openapp.library_url</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>oa</string>
+	<key>uuid</key>
+	<string>757F7835-B93B-4A74-8715-A3F6F966F579</string>
+</dict>
+</plist>

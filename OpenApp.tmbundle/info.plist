@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>OpenApp</string>
+	<key>ordering</key>
+	<array>
+		<string>A14C8916-8140-4515-9C0A-39339B3CA5A5</string>
+		<string>C488743F-E7FC-47FF-A45B-04BCAE5D3BD7</string>
+		<string>518A2E56-3876-4AB7-A839-A7AACCEB758F</string>
+		<string>757F7835-B93B-4A74-8715-A3F6F966F579</string>
+	</array>
+	<key>uuid</key>
+	<string>854F8A86-0155-40DF-90D2-1FFDA81A06A7</string>
+</dict>
+</plist>

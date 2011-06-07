@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var ${1:onEvent} = function (envelope, message) {
+  ${2:var value = message["key"];}
+  
+  return true;
+};
+</string>
+	<key>name</key>
+	<string>openapp.onEvent</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>oa</string>
+	<key>uuid</key>
+	<string>518A2E56-3876-4AB7-A839-A7AACCEB758F</string>
+</dict>
+</plist>
