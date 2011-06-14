@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>1. ndb
+    // debug server
+    node --debug my_js.js &amp;
+    ndb
+
+    // debug file.js
+    node --debug-brk file.js &amp;
+    ndb
+2. node-inspector
+    // debug server
+    node --debug my_js.js &amp;
+    node-inspector
+    http://127.0.0.1:8080/debug?port=5858</string>
+	<key>name</key>
+	<string>Node help</string>
+	<key>tabTrigger</key>
+	<string>node</string>
+	<key>uuid</key>
+	<string>E7E706D8-D9E0-4F91-91D4-59D73D5BEA14</string>
+</dict>
+</plist>
