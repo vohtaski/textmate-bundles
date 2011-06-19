@@ -5,7 +5,9 @@
 	<key>content</key>
 	<string>###
  # ${1:Describe this class}
- ## $0</string>
+ ## 
+
+$0</string>
 	<key>name</key>
 	<string>Class</string>
 	<key>scope</key>

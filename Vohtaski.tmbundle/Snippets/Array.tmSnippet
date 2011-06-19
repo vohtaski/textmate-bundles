@@ -3,18 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>/**
- * ${1:Describe this class}
- */ 
-
-$0</string>
+	<string>.join();
+.reverse();
+.sort();
+.concat();
+.slice();
+.splice();
+.push();
+.pop();
+.shift();
+.unshift();
+</string>
 	<key>name</key>
-	<string>Class</string>
+	<string>Array</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>/*</string>
+	<string>array</string>
 	<key>uuid</key>
-	<string>6EFB12E7-5786-44D7-93A7-5129EF7B54DF</string>
+	<string>C18C21D8-58DA-4E9D-8DA2-F453F50D312E</string>
 </dict>
 </plist>

@@ -5,9 +5,12 @@
 	<key>content</key>
 	<string>###
  # ${1:Describe what this method does}
+ #
 ${2: # @param ${3:param_name} {${4:String|Object|Array|Boolean|Number}\} ${5:Describe this parameter}${6}} 
  # @returns {${7:String|Object|Array|Boolean|Number}} ${8:Describe what it returns}
- ## $0</string>
+ ## 
+
+$0</string>
 	<key>name</key>
 	<string>Method</string>
 	<key>scope</key>
