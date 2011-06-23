@@ -6,7 +6,6 @@
 	<string>/**
  * ${1:Describe this class}
  */ 
-
 $0</string>
 	<key>name</key>
 	<string>Class</string>

@@ -9,7 +9,6 @@
 ${2: * @param ${3:paramName} {${4:String|Object|Array|Boolean|Number}\} ${5:Describe this parameter}${6}
 } * @returns {${7:String|Object|Array|Boolean|Number}} ${8:Describe what it returns}
  */ 
-
 $0</string>
 	<key>name</key>
 	<string>Function</string>

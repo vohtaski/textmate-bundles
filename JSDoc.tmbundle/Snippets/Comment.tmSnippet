@@ -6,7 +6,6 @@
 	<string>/**
  * $1
  */
-
 $0</string>
 	<key>name</key>
 	<string>Comment</string>
