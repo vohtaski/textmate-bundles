@@ -2,15 +2,95 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>7A677E75-ECF6-4C4C-A6E3-BF9C74719F91</string>
+			<string>5489E1FC-EBE5-402D-BB60-5D28013079D6</string>
+			<string>3CBE71CD-502E-4760-ADFB-A64DAAAF42B6</string>
+			<string>C18C21D8-58DA-4E9D-8DA2-F453F50D312E</string>
+			<string>E7E706D8-D9E0-4F91-91D4-59D73D5BEA14</string>
+			<string>25B6E406-587E-4F8A-99EC-EB74A27FA50F</string>
+			<string>71CFD2EA-47B3-487C-8C8D-48C9033B789C</string>
+			<string>CAFED26B-4284-4F9E-841D-54A2CD27B901</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>25B6E406-587E-4F8A-99EC-EB74A27FA50F</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>59AF7588-E4A5-4BD4-8CF0-50EDB8068520</string>
+					<string>A2A302BE-9CA5-4FAC-9E8E-DEB979D0853F</string>
+				</array>
+				<key>name</key>
+				<string>NodeJS</string>
+			</dict>
+			<key>71CFD2EA-47B3-487C-8C8D-48C9033B789C</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>EEB7E674-7545-4299-A39F-A225B3548D8F</string>
+				</array>
+				<key>name</key>
+				<string>Prototype</string>
+			</dict>
+			<key>CAFED26B-4284-4F9E-841D-54A2CD27B901</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>2F96136B-0193-42F5-90FC-B6F456A3AD77</string>
+					<string>4C6EDB43-3E2E-411B-A016-13C135C59833</string>
+					<string>1ECF6760-4B70-45E2-B5FB-4A457C168CF2</string>
+					<string>4692D6FE-5832-4BD8-8EBF-EE45547D3B25</string>
+					<string>6A712B3F-49CA-4939-B56A-5C8FE6030118</string>
+					<string>C67CDF27-C342-41C7-982D-276F40A71316</string>
+					<string>77065D69-742A-4FF0-9A41-AD211DFBE72F</string>
+					<string>7B9AEFCC-B450-416D-8527-430FE2A08568</string>
+					<string>AD506BEC-B33C-4168-A900-0A4D386A4B05</string>
+					<string>442EBE06-DE17-4C3D-9516-76F9F3D996D5</string>
+					<string>F69166C7-B59F-4C0C-8E81-8C908F5B47E3</string>
+					<string>F19F3732-39A7-48EC-A72B-A8F477A01795</string>
+					<string>31964029-9D71-4ADC-8213-DFE5C4E222B3</string>
+					<string>C207B7C3-5597-4873-8AAD-C46FB8842AF2</string>
+					<string>52809560-232A-42E1-8177-8CD4058BAEC8</string>
+					<string>4C37CAFC-46B8-45E8-A4B5-FB5A65515BB5</string>
+				</array>
+				<key>name</key>
+				<string>JavaScript</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>name</key>
 	<string>Vohtaski</string>
 	<key>ordering</key>
 	<array>
 		<string>84967EDE-CB93-4C24-A31E-18F37EF8091D</string>
 		<string>7A677E75-ECF6-4C4C-A6E3-BF9C74719F91</string>
+		<string>C18C21D8-58DA-4E9D-8DA2-F453F50D312E</string>
 		<string>5489E1FC-EBE5-402D-BB60-5D28013079D6</string>
-		<string>A2A302BE-9CA5-4FAC-9E8E-DEB979D0853F</string>
+		<string>E7E706D8-D9E0-4F91-91D4-59D73D5BEA14</string>
 		<string>3CBE71CD-502E-4760-ADFB-A64DAAAF42B6</string>
+		<string>59AF7588-E4A5-4BD4-8CF0-50EDB8068520</string>
+		<string>A2A302BE-9CA5-4FAC-9E8E-DEB979D0853F</string>
+		<string>4C6EDB43-3E2E-411B-A016-13C135C59833</string>
+		<string>1ECF6760-4B70-45E2-B5FB-4A457C168CF2</string>
+		<string>4692D6FE-5832-4BD8-8EBF-EE45547D3B25</string>
+		<string>6A712B3F-49CA-4939-B56A-5C8FE6030118</string>
+		<string>77065D69-742A-4FF0-9A41-AD211DFBE72F</string>
+		<string>7B9AEFCC-B450-416D-8527-430FE2A08568</string>
+		<string>C67CDF27-C342-41C7-982D-276F40A71316</string>
+		<string>2F96136B-0193-42F5-90FC-B6F456A3AD77</string>
+		<string>F19F3732-39A7-48EC-A72B-A8F477A01795</string>
+		<string>31964029-9D71-4ADC-8213-DFE5C4E222B3</string>
+		<string>F69166C7-B59F-4C0C-8E81-8C908F5B47E3</string>
+		<string>C207B7C3-5597-4873-8AAD-C46FB8842AF2</string>
+		<string>EEB7E674-7545-4299-A39F-A225B3548D8F</string>
+		<string>52809560-232A-42E1-8177-8CD4058BAEC8</string>
+		<string>4C37CAFC-46B8-45E8-A4B5-FB5A65515BB5</string>
+		<string>442EBE06-DE17-4C3D-9516-76F9F3D996D5</string>
+		<string>AD506BEC-B33C-4168-A900-0A4D386A4B05</string>
 	</array>
 	<key>uuid</key>
 	<string>CD11CDDE-B15B-468B-A1B5-91C1A3F3950F</string>
