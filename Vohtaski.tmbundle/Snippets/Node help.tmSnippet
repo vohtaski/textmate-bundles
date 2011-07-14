@@ -15,7 +15,9 @@
     // debug server
     node --debug my_js.js &amp;
     node-inspector
-    http://127.0.0.1:8080/debug?port=5858</string>
+    http://127.0.0.1:8080/debug?port=5858
+3. run file as node file
+  #!/usr/bin/env node</string>
 	<key>name</key>
 	<string>Node help</string>
 	<key>tabTrigger</key>

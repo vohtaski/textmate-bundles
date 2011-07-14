@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.forEach(function(value) { sum += value; });
+.map(function(x) { return x*x; });
+.filter(function(x,i) { return i%2==0 });
+.every(function(x) { return x % 2 === 0; });
+.some(function(x) { return x%2===0; });
+.reduce(function(x,y) { return x+y }, 0);     // Sum of values
+.reduceRight(function(accumulator,value) { return Math.pow(value,accumulator); });
+.indexOf(1);
+.lastIndexOf(1);</string>
+	<key>name</key>
+	<string>array5</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>array5</string>
+	<key>uuid</key>
+	<string>BB3C5027-E21D-46DB-A7DE-E172963F1EDE</string>
+</dict>
+</plist>
