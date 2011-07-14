@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>exports.${10:functionName} = ${20:function(${30:arg}) {
+  ${40:// body }
+\}};
+</string>
+	<key>name</key>
+	<string>exports</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>exp</string>
+	<key>uuid</key>
+	<string>5F056A0F-CB30-435F-81B5-517F5BC8D004</string>
+</dict>
+</plist>
