@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:ClassName}${2:.prototype}.${30:methodName} = function(${40:arg}) {
+	<string>${2:prototype.}${30:methodName} = function(${40:arg}) {
 	${50:// body }
 };
 </string>
