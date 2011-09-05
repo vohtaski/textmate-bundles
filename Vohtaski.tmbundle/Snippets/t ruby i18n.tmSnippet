@@ -3,20 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>switch (${1:flag}) {
-  case ${2:"value"}:
-    ${3:// body}
-    break;$0
-  default:
-    // default
-}</string>
+	<string>t("${1:prefix.suffix}"${2:,:${3:item} =&gt; ${4:"${5:Item}"}})</string>
 	<key>name</key>
-	<string>switch</string>
+	<string>t ruby i18n</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>sw</string>
+	<string>t</string>
 	<key>uuid</key>
-	<string>52809560-232A-42E1-8177-8CD4058BAEC8</string>
+	<string>A6E642F3-DFEB-4161-8F20-B63C30003516</string>
 </dict>
 </plist>

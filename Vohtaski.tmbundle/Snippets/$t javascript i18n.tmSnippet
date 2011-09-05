@@ -3,20 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>switch (${1:flag}) {
-  case ${2:"value"}:
-    ${3:// body}
-    break;$0
-  default:
-    // default
-}</string>
+	<string>\$t("${1:prefix.suffix}"${2:,{${3:item}: ${4:"${5:Item}"}}})</string>
 	<key>name</key>
-	<string>switch</string>
+	<string>$t javascript i18n</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>sw</string>
+	<string>t</string>
 	<key>uuid</key>
-	<string>52809560-232A-42E1-8177-8CD4058BAEC8</string>
+	<string>E7D2BFCF-CF3E-403B-A54E-5DBE0EEFA252</string>
 </dict>
 </plist>
