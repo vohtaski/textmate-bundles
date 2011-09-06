@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$t("${1:prefix.suffix}"${2:,{${3:item}: ${4:"${5:Item}"}}})</string>
+	<string>\$t("${1:prefix.suffix}"${2:,{${3:item}: ${4:"${5:Item}"}\}})</string>
 	<key>name</key>
 	<string>$t javascript i18n</string>
 	<key>scope</key>
