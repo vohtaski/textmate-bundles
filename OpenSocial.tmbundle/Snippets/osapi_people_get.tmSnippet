@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>osapi.people.get({userId: ${1:context}.contextId, personId: $1.contextType, groupId: "@self"}).execute(function(${2:response}){
-  $3
+  ${3:$2[0].displayName;}
 });$0</string>
 	<key>name</key>
 	<string>osapi.people.get</string>

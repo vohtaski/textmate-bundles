@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>osapi.recommender.get({contextId: ${1:context}.contextId, contextType: $1.contextType}).execute(function(${2:response}){
-  $3
+  ${3:$2[0].displayName;}
 });$0</string>
 	<key>name</key>
 	<string>osapi.recommender.get</string>
