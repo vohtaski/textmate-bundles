@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>// context = (contextType === "@space") ? "s_"+id : ""+id
 osapi.appdata.get({userId: ${1:context}, keys: ['${2:key}']).execute(function(${3:data}){
-  ${4:$3.[$1]['$2'];}
+  ${4:$3[$1]['$2'];}
 });$0</string>
 	<key>name</key>
 	<string>osapi.appdata.get</string>
