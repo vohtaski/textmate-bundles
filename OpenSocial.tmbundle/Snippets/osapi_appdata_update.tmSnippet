@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>// context = (contextType === "@space") ? "s_"+id : ""+id
+osapi.appdata.update({userId: ${1:context}, data: {${2:key}: ${3:value}}).execute(function(){
+  $4
+});$0</string>
+	<key>name</key>
+	<string>osapi.appdata.update</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>os</string>
+	<key>uuid</key>
+	<string>5CD81141-68DC-4D23-AAA4-1E3BA7312F20</string>
+</dict>
+</plist>
