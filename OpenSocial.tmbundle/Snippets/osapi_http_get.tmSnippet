@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>osapi.http.get({href:${1:'http://www.somephotosite.com/latest'}}).execute(function(${2:result}) {
+  if (!$2.error) {
+    ${3://alert('There are ' + $2.content.photos.length + ' new photos');}
+  }
+});</string>
+	<key>name</key>
+	<string>osapi.http.get</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>os</string>
+	<key>uuid</key>
+	<string>CA4ADA99-395C-410F-BAB2-5506608F66FE</string>
+</dict>
+</plist>

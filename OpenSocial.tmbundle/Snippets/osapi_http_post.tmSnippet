@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var params = {
+    'href': ${1:'http://www.somephotosite.com/prefs?uid=1234'},
+    'format': ${2:'json'},
+    'headers': {'Content-Type': ['application/json;charset=utf-8'], "Accept-Language": ["en-us"]},
+    'body': {'numResults': 100, theme: 'beach'},
+    'authz': 'SIGNED',
+};
+osapi.http.post(params).execute(function(result) {
+  if (!result.error) {
+    ${3:alert('Request to update user preferences was successful');}
+  }
+});
+</string>
+	<key>name</key>
+	<string>osapi.http.post</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>os</string>
+	<key>uuid</key>
+	<string>B976E5DC-04C4-4252-881F-FFCE61C24B70</string>
+</dict>
+</plist>
